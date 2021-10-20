@@ -1,2 +1,2 @@
-# DEV-NET-MINTING5738573
+# sandbox
 Created with CodeSandbox
